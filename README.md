@@ -1,2 +1,2 @@
-# netboom-docs
-[![Netlify Status](https://api.netlify.com/api/v1/badges/672e194c-95c3-4aa6-9db9-0659ef2344ba/deploy-status)](https://app.netlify.com/sites/netboom-docs/deploys)
+# cloud-play-docs
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05ffd26b-82fe-43d7-bfa8-35b9f197b5e0/deploy-status)](https://app.netlify.com/sites/celadon-arithmetic-cb688a/deploys)
